@@ -1,0 +1,6 @@
+{
+  "name": "MindGuardian AI Angola",
+  "description": "Plataforma SaaS inteligente para monitorar consumo de apps, vícios digitais e maximizar a produtividade móvel adaptada ao contexto de Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
